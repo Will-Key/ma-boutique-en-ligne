@@ -1,0 +1,5 @@
+# ignorer les fichiers temporaires
+*.log
+
+# ignorer les repertoires temporaires
+temp/
